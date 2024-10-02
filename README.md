@@ -1,7 +1,7 @@
 **Pet projects**
 
 - [races](https://github.com/t-i-m-i/races) - Triathlon and trail running races bio. **Next.js**
-- termoklina (private) - Shifts app for local swimming club **Next.js**
+- termoklina (private) - Shifts app for local swimming club 🏊. A free project for the community that is used daily by its members. **Next.js**
 
 **Reference implementations for various tech stacks**
 - [jokebox](https://github.com/t-i-m-i/jokebox) - **React** and **TypeScript**
