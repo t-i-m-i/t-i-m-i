@@ -1,14 +1,15 @@
 **Pet projects**
 
 - [races](https://github.com/t-i-m-i/races) - Triathlon and trail running 🏊‍♂️🚴🏻‍♂️🏃‍♂️ races bio. **Next.js**
-- termoklina (private) - Shifts app for local swimming club 🏊. A free project for the community that is used daily by its members. **Next.js**
+- termoklina (private, release to the open source in progress) - Shifts app for local swimming club 🏊. A free project for the community that is used daily by its members. **Next.js**
 
 **Reference implementations for various tech stacks**
-- [jokebox](https://github.com/t-i-m-i/jokebox) - **React** and **TypeScript**
+- [react-zustand](https://github.com/t-i-m-i/react-zustand) - Manage state in React with Zustand
 - [next-js-get-and-update-data-quick-overview](https://github.com/t-i-m-i/next-js-get-and-update-data-quick-overview) - Get and update data with **next.js** server actions
+- [jokebox](https://github.com/t-i-m-i/jokebox) - **React** and **TypeScript**
 - [vue-flight-booker](https://github.com/t-i-m-i/vue-flight-booker) - Modelling constraints in **Vue 3**
 - [svg-animations](https://github.com/t-i-m-i/vue-flight-booker) - **Animate** SVG with CSS
-- [react-zustand](https://github.com/t-i-m-i/react-zustand) - Manage state in React with Zustand
+
 
 
 <!--
