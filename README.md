@@ -9,6 +9,7 @@
 - [jokebox](https://github.com/t-i-m-i/jokebox) - **React** and **TypeScript**
 - [vue-flight-booker](https://github.com/t-i-m-i/vue-flight-booker) - Modelling constraints in **Vue 3**
 - [svg-animations](https://github.com/t-i-m-i/vue-flight-booker) - **Animate** SVG with CSS
+- [react-native-expo](https://github.com/t-i-m-i/react-native-expo) - React Native with Expo
 
 
 
