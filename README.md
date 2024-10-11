@@ -1,3 +1,9 @@
+> [!TIP]
+> **Open to project-based work and full-time opportunities.**
+>
+> [Contact me](mailto:tymoteusz.bak@proton.me)
+
+
 **Pet projects**
 
 - [races](https://github.com/t-i-m-i/races) - Triathlon and trail running 🏊‍♂️🚴🏻‍♂️🏃‍♂️ races bio. **Next.js**
