@@ -1,5 +1,5 @@
 > [!TIP]
-> **I;m open to project-based work and full-time opportunities.**
+> **I'm open to project-based work and full-time opportunities.**
 >
 > [Contact me](mailto:tymoteusz.bak@proton.me)
 
