@@ -11,10 +11,11 @@
 **Reference implementations for various tech stacks**
 - [react-zustand](https://github.com/t-i-m-i/react-zustand) - Manage state in **React** with Zustand
 - [next-js-get-and-update-data-quick-overview](https://github.com/t-i-m-i/next-js-get-and-update-data-quick-overview) - Get and update data with **Next.js** server actions
+- [react-native-expo](https://github.com/t-i-m-i/react-native-expo) - **React Native** with Expo and Supabase
 - [jokebox](https://github.com/t-i-m-i/jokebox) - **React** and **TypeScript**
 - [vue-flight-booker](https://github.com/t-i-m-i/vue-flight-booker) - Modelling constraints in **Vue 3**
 - [svg-animations](https://github.com/t-i-m-i/vue-flight-booker) - **Animate** SVG with CSS
-- [react-native-expo](https://github.com/t-i-m-i/react-native-expo) - **React Native** with Expo
+
 
 
 
