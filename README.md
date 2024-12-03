@@ -15,6 +15,7 @@
 - [jokebox](https://github.com/t-i-m-i/jokebox) - **React** and **TypeScript**
 - [vue-flight-booker](https://github.com/t-i-m-i/vue-flight-booker) - Modelling constraints in **Vue 3**
 - [svg-animations](https://github.com/t-i-m-i/vue-flight-booker) - **Animate** SVG with CSS
+- [frosted-glass](https://gist.github.com/t-i-m-i/e8ec839327d6c764ca0573cdf73c3b66) - frosted glass **CSS**
 
 
 
