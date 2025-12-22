@@ -1,6 +1,8 @@
+<!--
 > [!TIP]
 > **I'm open to project-based work and full-time opportunities.**
 >
+-->
 
 
 **Pet projects**
