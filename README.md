@@ -1,14 +1,6 @@
-<!--
 > [!TIP]
 > **I'm open to project-based work and full-time opportunities.**
 >
--->
-
-
-**Pet projects**
-
-- [races](https://github.com/t-i-m-i/races) - Triathlon and trail running 🏊‍♂️🚴🏻‍♂️🏃‍♂️ races bio. **Next.js**
-- termoklina (private, release to the open source in progress) - Shifts app for local swimming club 🏊. A free project for the community that is used daily by its members. **Next.js**
 
 **Reference implementations for various tech stacks**
 - [react-zustand](https://github.com/t-i-m-i/react-zustand) - Manage state in **React** with Zustand
@@ -18,9 +10,6 @@
 - [vue-flight-booker](https://github.com/t-i-m-i/vue-flight-booker) - Modelling constraints in **Vue 3**
 - [svg-animations](https://github.com/t-i-m-i/vue-flight-booker) - **Animate** SVG with CSS
 - [frosted-glass](https://gist.github.com/t-i-m-i/e8ec839327d6c764ca0573cdf73c3b66) - frosted glass **CSS**
-
-
-
 
 <!--
 **t-i-m-i/t-i-m-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
