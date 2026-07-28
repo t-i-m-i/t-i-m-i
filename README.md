@@ -4,7 +4,7 @@
 > 
 
 **Current competencies demo**
-- [react-native-with-node-and-postgresql](https://github.com/t-i-m-i/hotels) - A mobile app for discovering hotels on an interactive map, built as a portfolio project to demonstrate mobile app development end-to-end — from UI to geolocation to (eventually) a real backend.
+- [react-native-with-node-and-postgresql](https://github.com/t-i-m-i/hotels) - A mobile app for discovering hotels on an interactive map, built as a portfolio project to demonstrate mobile app development end-to-end - from UI to geolocation to (eventually) a real backend.
 
 **Reference implementations for various tech stacks**
 - [react-zustand](https://github.com/t-i-m-i/react-zustand) - Manage state in **React** with Zustand
