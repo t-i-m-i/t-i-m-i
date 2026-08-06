@@ -5,7 +5,7 @@
 
 **Current competencies demo**
 - [react-native-with-node-and-postgresql](https://github.com/t-i-m-i/hotels) - A mobile app for discovering hotels on an interactive map, built as a portfolio project to demonstrate mobile app development end-to-end - from UI to geolocation to a real backend.
-- [nest-js-rest-api](https://github.com/t-i-m-i/hotels-api) - A NestJS backend with an OpenAPI-documented REST API for React Native and Next.js apps.
+- [nest-js-rest-api](https://github.com/t-i-m-i/hotels-api) - A NestJS backend with an OpenAPI-documented REST API serving the Hotels React Native and Next.js applications.
 - [next-js](https://github.com/t-i-m-i/hotels-web-next) -  Next.js counterpart to the Hotels React Native app. Built to demonstrate the same product as a server-rendered web app.
 
 **Reference implementations for various tech stacks**
