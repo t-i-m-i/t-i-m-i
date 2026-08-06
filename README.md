@@ -8,7 +8,7 @@
 - [nest-js-rest-api](https://github.com/t-i-m-i/hotels-api) - A NestJS backend with an OpenAPI-documented REST API serving the Hotels React Native and Next.js applications.
 - [next-js](https://github.com/t-i-m-i/hotels-web-next) -  Next.js counterpart to the Hotels React Native app. Built to demonstrate the same product as a server-rendered web app.
 
-**Reference implementations for various tech stacks**
+**Reference implementations for various tech stacks** (older stuff)
 - [react-zustand](https://github.com/t-i-m-i/react-zustand) - Manage state in **React** with Zustand
 - [next-js-get-and-update-data-quick-overview](https://github.com/t-i-m-i/next-js-get-and-update-data-quick-overview) - Get and update data with **Next.js** server actions
 - [react-native-expo](https://github.com/t-i-m-i/react-native-expo) - **React Native** with Expo and Supabase
