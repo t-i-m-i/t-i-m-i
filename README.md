@@ -3,7 +3,7 @@
 >
 > 
 
-**Current competencies demo**
+**Current (2024-2026) competencies demo**
 
 A demo app called "Hotels" consisting of a native mobile app, a web app for browsers, and a shared REST API backend. 
 Each demonstrates end-to-end development across different platforms.
