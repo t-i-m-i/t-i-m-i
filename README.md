@@ -3,19 +3,22 @@
 >
 > 
 
+***
+
 **Current (2024-2026) competencies demo**
 
-A demo app called "Hotels" consisting of a native mobile app, a web app for browsers, and a shared REST API backend. 
-Each demonstrates end-to-end development across different platforms.
+A demo app called "Hotels" consisting of a native mobile app, a web app for browsers, and a shared REST API backend:
 
 - [Hotels (React Native with Expo)](https://github.com/t-i-m-i/hotels) - A mobile app for discovering hotels on an interactive map, built to demonstrate mobile app development end-to-end - from UI to geolocation to backend integration.
 - [Hotels API (NestJS)](https://github.com/t-i-m-i/hotels-api) - A NestJS backend with an OpenAPI-documented REST API serving both the React Native and Next.js apps.
 - [Hotels (Next.js)](https://github.com/t-i-m-i/hotels-web-next) -  A server-rendered web app counterpart to the mobile version, demonstrating the same product across platforms.
 
-Alternative "Hotels" app with different stack combo: Fastify REST API backend + TanStack Start web:
+Same product, different stack: Fastify REST API backend + React TanStack Start web app:
 
-- [Hotels Alt (TanStack Start)](https://github.com/t-i-m-i/hotels-alt-web-start)
+- [Hotels Alt (React TanStack Start)](https://github.com/t-i-m-i/hotels-alt-web-start)
 - [Hotels Alt API (Fastify for Node.js)](https://github.com/t-i-m-i/hotels-alt-api)
+
+***
 
 **Reference implementations for various tech stacks** (older stuff)
 - [react-zustand](https://github.com/t-i-m-i/react-zustand) - Manage state in **React** with Zustand
