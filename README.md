@@ -12,7 +12,7 @@ Each demonstrates end-to-end development across different platforms.
 - [Hotels API (NestJS)](https://github.com/t-i-m-i/hotels-api) - A NestJS backend with an OpenAPI-documented REST API serving both the React Native and Next.js apps.
 - [Hotels (Next.js)](https://github.com/t-i-m-i/hotels-web-next) -  A server-rendered web app counterpart to the mobile version, demonstrating the same product across platforms.
 
-Alternative Hotels app with different stack combo: Fastify REST API backend + TanStack Start web:
+Alternative "Hotels" app with different stack combo: Fastify REST API backend + TanStack Start web:
 
 - [Hotels Alt (TanStack Start)](https://github.com/t-i-m-i/hotels-alt-web-start)
 - [Hotels Alt API (Fastify for Node.js)](https://github.com/t-i-m-i/hotels-alt-api)
