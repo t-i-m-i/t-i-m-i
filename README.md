@@ -18,6 +18,9 @@ Same product, different stack: Fastify REST API backend + React TanStack Start w
 - [Hotels Alt (React TanStack Start)](https://github.com/t-i-m-i/hotels-alt-web-start)
 - [Hotels Alt API (Fastify for Node.js)](https://github.com/t-i-m-i/hotels-alt-api)
 
+Patterns and techniques:
+- [Collection of patterns and techniques](https://github.com/t-i-m-i/patterns-and-techniques)
+
 ***
 
 **Reference implementations for various tech stacks** (older stuff)
