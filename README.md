@@ -7,6 +7,9 @@
 
 **Current (2024-2026) competencies**
 
+_I built these from scratch as a personal playground for the stack - so they're early days and evolving fast. 
+Take a look, and feel free to check back in as they grow._
+
 A demo app called "Hotels" consisting of a native mobile app, a web app for browsers, and a shared REST API backend:
 
 - [Hotels (React Native with Expo)](https://github.com/t-i-m-i/hotels) - A mobile app for discovering hotels on an interactive map, built to demonstrate mobile app development end-to-end - from UI to geolocation to backend integration.
@@ -18,7 +21,7 @@ Same product, different stack: Fastify REST API backend + React TanStack Start w
 - [Hotels Alt (React TanStack Start)](https://github.com/t-i-m-i/hotels-alt-web-start)
 - [Hotels Alt API (Fastify for Node.js)](https://github.com/t-i-m-i/hotels-alt-api)
 
-Patterns and techniques:
+A collection of patterns and techniques I've used in commercial projects:
 - [Collection of patterns and techniques](https://github.com/t-i-m-i/patterns-and-techniques)
 
 ***
