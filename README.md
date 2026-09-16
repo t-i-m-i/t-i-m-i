@@ -27,7 +27,7 @@ Patterns and techniques:
 - [react-zustand](https://github.com/t-i-m-i/react-zustand) - Manage state in **React** with Zustand
 - [next-js-get-and-update-data-quick-overview](https://github.com/t-i-m-i/next-js-get-and-update-data-quick-overview) - Get and update data with **Next.js** server actions
 - [react-native-expo](https://github.com/t-i-m-i/react-native-expo) - **React Native** with Expo and Supabase
-- [jokebox](https://github.com/t-i-m-i/jokebox) - **React** and **TypeScript**
+- [jokebox](https://github.com/t-i-m-i/jokebox) - **React** and **TypeScript** - handful of core React concepts
 - [vue-flight-booker](https://github.com/t-i-m-i/vue-flight-booker) - Modelling constraints in **Vue 3**
 - [svg-animations](https://github.com/t-i-m-i/svg-animations) - **Animate** SVG with CSS
 - [frosted-glass](https://gist.github.com/t-i-m-i/e8ec839327d6c764ca0573cdf73c3b66) - frosted glass **CSS**
