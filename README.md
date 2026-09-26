@@ -1,5 +1,5 @@
 > [!TIP]
-> **Open to full-time opportunities in full-stack development, with a focus on TypeScript, Node.js, PostgreSQL, React Native, and React.**
+> **Open to full-time opportunities as React Native Developer, Node.js Developer, and Fullstack Developer, with a focus on TypeScript, Node.js, PostgreSQL, React Native, and React.**
 >
 > 
 
