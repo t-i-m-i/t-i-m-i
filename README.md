@@ -24,6 +24,9 @@ Same product, different stack: Fastify REST API backend + React TanStack Start w
 A collection of patterns and techniques I've used in commercial projects:
 - [Collection of patterns and techniques](https://github.com/t-i-m-i/patterns-and-techniques)
 
+Learning new stacks using AI:
+- [Personal tracker for job applications in ASP.NET Core](https://github.com/t-i-m-i/job-pipeline)
+
 ***
 
 **Reference implementations for various tech stacks** (older stuff)
