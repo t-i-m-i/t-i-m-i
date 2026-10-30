@@ -27,6 +27,7 @@ A collection of patterns and techniques I've used in commercial projects:
 Learning new stacks using AI:
 - [Personal tracker for job applications in ASP.NET Core](https://github.com/t-i-m-i/job-pipeline)
 - [ETL demo for banking transactions in Python](https://github.com/t-i-m-i/ledger-pipeline)
+- [Tiny AI agent written from scratch in TypeScript](https://github.com/t-i-m-i/tiny-agent)
 
 ***
 
