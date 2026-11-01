@@ -28,6 +28,7 @@ Learning new stacks using AI:
 - [Personal tracker for job applications in ASP.NET Core](https://github.com/t-i-m-i/job-pipeline)
 - [ETL demo for banking transactions in Python](https://github.com/t-i-m-i/ledger-pipeline)
 - [Tiny AI agent written from scratch in TypeScript](https://github.com/t-i-m-i/tiny-agent)
+- [AWS with Floci](https://github.com/t-i-m-i/local-cloud/)
 
 ***
 
