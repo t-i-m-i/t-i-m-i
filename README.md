@@ -18,8 +18,8 @@ A demo app called "Hotels" consisting of a native mobile app, a web app for brow
 
 Same product, different stack: Fastify REST API backend + React TanStack Start web app:
 
-- [Hotels Alt (React TanStack Start)](https://github.com/t-i-m-i/hotels-alt-web-start)
-- [Hotels Alt API (Fastify for Node.js)](https://github.com/t-i-m-i/hotels-alt-api)
+- [Hotels Alt (React TanStack Start)](https://github.com/t-i-m-i/hotels-alt-web-start) 🚧
+- [Hotels Alt API (Fastify for Node.js)](https://github.com/t-i-m-i/hotels-alt-api) 🚧
 
 A collection of patterns and techniques I've used in commercial projects:
 - [Collection of patterns and techniques](https://github.com/t-i-m-i/patterns-and-techniques)
