@@ -24,10 +24,11 @@ Same product, different stack: Fastify REST API backend + React TanStack Start w
 A collection of patterns and techniques I've used in commercial projects:
 - [Collection of patterns and techniques](https://github.com/t-i-m-i/patterns-and-techniques)
 
-Learning new stacks using AI:
+Learning new stacks:
 - [Personal tracker for job applications in ASP.NET Core](https://github.com/t-i-m-i/job-pipeline)
 - [ETL demo for banking transactions in Python](https://github.com/t-i-m-i/ledger-pipeline)
 - [Learning Express for Fastify developers](https://github.com/t-i-m-i/express-app/)
+- [Learning WebSockets by building a tiny BLIK-style payment flow](https://github.com/t-i-m-i/live-pay/)
 - [Tiny AI agent written from scratch in TypeScript](https://github.com/t-i-m-i/tiny-agent)
 - [AWS with Floci](https://github.com/t-i-m-i/local-cloud/)
 
